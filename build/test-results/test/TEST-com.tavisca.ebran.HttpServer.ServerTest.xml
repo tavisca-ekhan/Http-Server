@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tavisca.ebran.HttpServer.ServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-07T12:53:34" hostname="RENTLAPT0079" time="0.025">
+  <properties/>
+  <testcase name="checkingForCreatingTheDataPOJO()" classname="com.tavisca.ebran.HttpServer.ServerTest" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
